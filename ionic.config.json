@@ -1,5 +1,7 @@
 {
   "name": "ionic-gallery-app",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }

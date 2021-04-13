@@ -1,0 +1,13 @@
+{
+  "appId": "dev.eogallery.app",
+  "appName": "ionic-gallery-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
